@@ -1,4 +1,5 @@
 # LaTeX Starter Project
+Idea: Setting up a project structure for LaTeX large documents is tideous. This repository shall act like a template.
 
 ## Structure
 - Write your LaTeX code in `src/`.
